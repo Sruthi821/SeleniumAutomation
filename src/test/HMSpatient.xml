@@ -1,0 +1,8 @@
+<suite name="HMScreatepatient">
+<test name="HMScreatepatient Results">
+<classes>
+<class name="testscripts.HMScreatepatient">
+</class>
+</classes>
+</test>
+</suite>
