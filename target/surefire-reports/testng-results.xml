@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="HMS" duration-ms="12898" started-at="2019-09-19T05:17:47Z" finished-at="2019-09-19T05:18:00Z">
+  <suite name="HMS" duration-ms="11569" started-at="2019-09-24T04:44:02Z" finished-at="2019-09-24T04:44:13Z">
     <groups>
     </groups>
-    <test name="HMS Results" duration-ms="12898" started-at="2019-09-19T05:17:47Z" finished-at="2019-09-19T05:18:00Z">
+    <test name="HMS Results" duration-ms="11569" started-at="2019-09-24T04:44:02Z" finished-at="2019-09-24T04:44:13Z">
       <class name="testScripts.HMSCreatePatient">
-        <test-method status="PASS" signature="f()[pri:0, instance:testScripts.HMSCreatePatient@5e5792a0]" name="f" duration-ms="12887" started-at="2019-09-19T10:47:47Z" finished-at="2019-09-19T10:48:00Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:testScripts.HMSCreatePatient@5b464ce8]" name="f" duration-ms="11555" started-at="2019-09-24T10:14:02Z" finished-at="2019-09-24T10:14:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
